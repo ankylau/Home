@@ -375,6 +375,13 @@ a {
 .icon.dribbble:after {
     content: "Dribbble: @anky"
 }
+.icon.aklau {
+    background-image: url(../images/icon-aklau.png)
+}
+
+.icon.aklau:after {
+    content: "ANKYLAU"
+}
 
 body {
     background-color: #fff
